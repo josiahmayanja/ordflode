@@ -1,0 +1,18 @@
+# Node.js modules
+node_modules/
+
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+
+# Angular build output
+dist/
+.angular/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
